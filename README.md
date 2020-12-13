@@ -1,0 +1,2 @@
+# renpy
+perevod igr
